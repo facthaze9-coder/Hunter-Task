@@ -5,7 +5,7 @@
   "start_url": "/Hunter-Task/",
   "display": "standalone",
   "background_color": "#020b18",
-  "theme_color": "#3b82f6",
+  "theme_color": "#07187d",
   "icons": [
     {
       "src": "https://via.placeholder.com/192x192/020b18/3b82f6?text=HT",
